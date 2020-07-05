@@ -1,14 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "method" : "szone",
+    "tr" : 10,
+    "mcount" : 1,
+    "c_list" : [{"lat" : 36.991638, "lon" : 30.613594}, 
+    {"lat" : 36.991664, "lon" : 30.612819},
+    {"lat" : 36.991694, "lon" : 30.611819},
+    {"lat" : 36.991674, "lon" : 30.613819}]
 }
